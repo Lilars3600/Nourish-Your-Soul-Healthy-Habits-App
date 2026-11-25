@@ -24,6 +24,7 @@ In the goals sections, users can set new goals or edit their current goals. With
 
 >Medication/supplement Goals-This goal has specific options within it that are not applicable to the other domains
 >Within medication/supplement goals, users can add all of the medications and supplements they take including their dosage and how frequently they take it. Within that, they can specify if they only take the medication 'as needed' in which case "progress" is logged similarly to a habit. There is no target goal for 'as needed' medications but users can still track whenever they take them.'Stop logging progress once goal is complete' is automatically on for ALL medication/supplement goals and cannot be turned off. This is to encourage users to only take what has been prescribed to them. If the user has any medications that they only take 'as needed,' they can still log progress for those medications.
+
 >Nutrition Goals-Nutrition goals are designed to celebrate eating and taking care of our bodies. Users are encouraged to eat intuitively and nourish their soul with the food that makes their body, and mind, the happiest. Users cannot count calories in Nourish Your Soul.
 
 SETTINGS
