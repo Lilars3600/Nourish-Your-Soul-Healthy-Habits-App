@@ -2,6 +2,7 @@
 This app is designed to help people set encouraging goals that support physical and mental health. It has highly customizable settings to suite users' specific needs. Users create goals, set the specs, log progress and log mood and energy states throughout the day. Users can view their progress and statistics so they can learn about their habits.
 
 NOURISH YOUR SOUL
+
 Healthy Habits App
 
 Nourish Your Soul is a goal tracking app with an emphasis on mental health. The app is designed to be supportive to people who are dealing with, or have dealt with,  mental health disorders, as well as people who generally want to maintain mental and physical well-being. The app is based around goals that users can set to their own specifications. Once a goal is set, users can log progress, add notes, edit the goal and view their progress history and habits statistics. The home screen is the 'Daily Log' where users enter their progress for the day. There are also 'Calendar', 'Stats', 'Goals' and 'Settings tabs'. 
